@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+}
+
+.app {
+  width: 600px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+#loading {
+  text-align: center;
+  color: gray;
+  margin-top: 10px;
+}
